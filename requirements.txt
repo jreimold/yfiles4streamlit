@@ -2,3 +2,4 @@
 snowflake-snowpark-python
 streamlit
 yfiles_graphs_for_streamlit
+networkx
